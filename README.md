@@ -1,1 +1,1 @@
-# PARKING-LOT-MANAGEMENT-SYSTEM
+A C-based Parking Lot Management System implementing structured programming using `struct`, arrays, and modular functions. Utilizes control flow constructs (loops, switch-case, conditionals) for slot allocation, vehicle tracking, and billing logic. Demonstrates memory-efficient data handling, menu-driven user interaction, and real-time state management using core C language fundamentals.
